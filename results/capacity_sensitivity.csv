@@ -1,0 +1,27 @@
+nu,case,light,routed,ensemble,saved_pct
+1000,baseline (measured),6,12,26,53.8
+1000,service-time spread s=0.5,6,12,26,53.8
+1000,service-time spread s=1.0,6,15,,
+1000,dispatcher 0.1 ms/dispatch,6,12,26,53.8
+1000,dispatcher 0.25 ms/dispatch,6,12,26,53.8
+1000,dispatcher 0.4 ms/dispatch,6,12,26,53.8
+1000,hop 1 ms,6,12,26,53.8
+1000,hop 5 ms,6,13,26,50.0
+1000,"combined: s=0.5, 0.25 ms, hop 1 ms",6,12,26,53.8
+1000,target 150 ms (less derating),6,12,26,53.8
+1000,target 75 ms (more derating),6,13,27,51.9
+1000,target 50 ms,6,13,27,51.9
+1000,target 30 ms,6,,,
+2000,baseline (measured),11,23,50,54.0
+2000,service-time spread s=0.5,11,23,50,54.0
+2000,service-time spread s=1.0,11,25,,
+2000,dispatcher 0.1 ms/dispatch,11,23,50,54.0
+2000,dispatcher 0.25 ms/dispatch,11,23,,
+2000,dispatcher 0.4 ms/dispatch,11,,,
+2000,hop 1 ms,11,23,50,54.0
+2000,hop 5 ms,11,23,51,54.9
+2000,"combined: s=0.5, 0.25 ms, hop 1 ms",11,23,,
+2000,target 150 ms (less derating),11,23,50,54.0
+2000,target 75 ms (more derating),11,23,51,54.9
+2000,target 50 ms,11,25,52,51.9
+2000,target 30 ms,11,,,
