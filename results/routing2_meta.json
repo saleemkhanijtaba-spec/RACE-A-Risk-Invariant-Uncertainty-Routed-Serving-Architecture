@@ -1,9 +1,0 @@
-{
- "tau_light": 0.34,
- "tau_heavy": 0.33,
- "ms_light": 5.217322099999999,
- "ms_heavy": 19.308476499999998,
- "theta_cal": 0.9,
- "theta_rule_split": "dev",
- "alpha": 0.005
-}

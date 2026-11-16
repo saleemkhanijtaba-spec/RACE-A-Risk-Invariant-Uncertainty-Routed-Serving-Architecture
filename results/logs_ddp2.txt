@@ -1,9 +1,0 @@
-W1110 00:15:03.169000 873 dist-packages/torch/distributed/run.py:982] 
-W1110 00:15:03.169000 873 dist-packages/torch/distributed/run.py:982] *****************************************
-W1110 00:15:03.169000 873 dist-packages/torch/distributed/run.py:982] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
-W1110 00:15:03.169000 873 dist-packages/torch/distributed/run.py:982] *****************************************
-[W1110 00:15:03.039732783 socket.cpp:764] [c10d] The client socket cannot be initialized to connect to [localhost]:36461 (errno: 97 - Address family not supported by protocol).
-[W1110 00:15:03.098235947 socket.cpp:764] [c10d] The client socket cannot be initialized to connect to [localhost]:44625 (errno: 97 - Address family not supported by protocol).
-[W1110 00:15:04.168970743 socket.cpp:764] [c10d] The client socket cannot be initialized to connect to [localhost]:44625 (errno: 97 - Address family not supported by protocol).
-[W1110 00:15:04.182655015 socket.cpp:764] [c10d] The client socket cannot be initialized to connect to [localhost]:44625 (errno: 97 - Address family not supported by protocol).
-{'world': 2, 'steps': 60, 'batch_per_worker': 64, 'seconds': 38.194783449172974, 'samples_per_s': 201.0745789466256}
