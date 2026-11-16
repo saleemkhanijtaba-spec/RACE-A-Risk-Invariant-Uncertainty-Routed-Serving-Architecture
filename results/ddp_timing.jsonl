@@ -1,0 +1,4 @@
+{"world": 1, "steps": 1874, "batch_per_worker": 64, "seconds": 618.5539548397064, "samples_per_s": 193.89739417490347}
+{"world": 1, "steps": 60, "batch_per_worker": 64, "seconds": 33.71352934837341, "samples_per_s": 113.9008604029548}
+{"world": 1, "steps": 60, "batch_per_worker": 64, "seconds": 20.549593687057495, "samples_per_s": 186.86500854849024}
+{"world": 2, "steps": 60, "batch_per_worker": 64, "seconds": 38.194783449172974, "samples_per_s": 201.0745789466256}

@@ -1,0 +1,1 @@
+{'world': 1, 'steps': 60, 'batch_per_worker': 64, 'seconds': 33.71352934837341, 'samples_per_s': 113.9008604029548}
