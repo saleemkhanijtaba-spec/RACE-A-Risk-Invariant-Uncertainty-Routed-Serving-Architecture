@@ -53,12 +53,6 @@ All steps run on CPU (tested on 2 cores, 7 GB RAM). `pip install -r code/require
    – regenerates tables, `numbers.tex` and figures.
 9. `pdflatex main && bibtex main && pdflatex main && pdflatex main`.
 
-## Notes on scope
-
-* Errors are synthetic; absolute F0.5 values are not comparable with QALB/ZAEBUC.
-* No LLM was run; published LLM and QALB values are quoted as reported.
-* Cluster results beyond two cores come from the simulator, not a physical cluster.
-* Seeds: RACE and re-implemented baselines 5; seq2seq 3; ablations 3 per variant; tuned RACE and pretrained tagger 5; leak-free retraining 3.
 
 ## Data sources
 
