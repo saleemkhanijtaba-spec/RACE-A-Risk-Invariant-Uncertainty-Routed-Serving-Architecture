@@ -1,0 +1,8 @@
+mode,type,count,share,per_10k_tokens
+argmax,orthographic/char,157,0.625498,19.972
+argmax,delete,50,0.199203,6.36051
+argmax,split,43,0.171315,5.47004
+argmax,other char,1,0.00398406,0.12721
+crc,delete,189,0.577982,24.0427
+crc,orthographic/char,130,0.397554,16.5373
+crc,split,8,0.0244648,1.01768
